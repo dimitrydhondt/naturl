@@ -1,0 +1,4 @@
+#!/bin/bash
+cd public
+s3cmd sync --acl-public --guess-mime-type . s3://biomarktlebbeke.be/
+s3cmd ws-create --ws-index=index.html s3://biomarktlebbeke.be
