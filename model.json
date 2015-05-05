@@ -1,0 +1,185 @@
+{
+    "title": "Natur-L",
+    "rows": [
+        { "columns": [
+            {
+                "image": "img/groenegevels.jpg",
+                "title": "Groene Gevels",
+                "subtitle": "Gevelgroen",
+                "description": "Groene Gevels vzw is dé leverancier van klimhulpen en klimplanten voor het realiseren van gevelgroen. Groene Gevels vzw levert aan particulieren, bedrijven, gemeenten en instellingen. Groene gevels hebben vele voordelen, het is mooi, het is goed voor uw gezondheid en voor het milieu. Daarom Wil Groene Gevels zoveel mogelijk gevels begroenen te beginnen in Lebbeke, Dendermonde, Buggenhout en Opwijk.",
+                "url": "http://www.groenegevels.be"
+            },
+            {
+                "image": "img/oxfam.jpg",
+                "title": "Oxfam Wereldwinkel",
+                "subtitle": "Fair trade",
+                "description": "Wie ken de wereldwinkel nog niet ? Producten van eerlijke handel zijn onze specialiteit. Nergens anders vind je er zoveel bij elkaar. Met het brede assortiment van ons huismerk Oxfam Fair Trade en andere fairtrademerken tonen we dat eerlijke handel mogelijk is.",
+                "url": "http://www.oxfamwereldwinkels.be/nl/dendermonde"
+            },
+            {
+                "image": "img/imkers.jpg",
+                "title": "Roger De Croock",
+                "subtitle": "Imker",
+                "description": "Roger De Croock is één van de lokale imkers, proef zijn heerlijke honing. Of vraag hem (werkelijk !) alles over bijen !",
+                "url": "http://www.konvib.be/"                
+            },
+            {
+                "image": "img/compostmeester.jpg",
+                "title": "Compostmeesters",
+                "subtitle": "Composteren",
+                "description": "Thuiscomposteren is waarschijnlijk de slimste manier om je groenafval om te zetten in geweldige voeding voor de planten in je tuin.",
+                "url": "http://www.lebbeeksecompost.be/"
+            }
+        ]},
+        { "columns": [
+            {
+                "image": "img/biowineathome.jpg",
+                "title": "Biowine@Home",
+                "subtitle": "Bio-wijn en Whiskey",
+                "description": "Heerlijk wijnen, cava, Whiskey. Allemaal van biologische origine !",
+                "url": "http://biowineathome.be/"
+            },
+            {
+                "image": "img/lovinghut.jpg",
+                "title": "Loving Hut Express",
+                "subtitle": "Duurzame catering",
+                "description": "Kom genieten van de overheerlijke catering van The Loving Hut Express ! Seizoensgebonden, duurzame gerechten.",
+                "url": "http://www.vivavega.be/"
+            },
+            {
+                "image": "img/natuurpunt.jpg",
+                "title": "Natuurpunt",
+                "subtitle": "Natuurbeheer",
+                "description": "Wie kent natuurpunt niet ? Natuurpunt zet zich in voor natuurbehoud in Vlaanderen. Gesteund door 95.000 leden zetten meer dan 6.000 vrijwilligers zich dagelijks in om bedreigde planten, dieren en landschappen te beschermen.",
+                "url": "http://www.natuurpunt.be/"
+            },
+            {
+                "image": "img/voedselteams.jpg",
+                "title": "Voedselteams",
+                "subtitle": "Korte keten",
+                "description": "Het netwerk van lokale voedselteams en duurzame producenten. Via dit netwerk organiseren we de directe verhandeling van duurzame streek- en seizoensvoeding. Voedselteams dragen bij aan regionaal voedselsysteem en zijn pioniers in de korte keten.",
+                "url": "http://www.voedselteams.be/"
+            }
+        ]},
+        { "columns": [
+            {
+                "image": "img/artdeco.jpg",
+                "title": "Art d'Eco",
+                "subtitle": "Creative Upcycling",
+                "description": "Maak zelf, uit afval, prachtige - creatieve - spullen. Koop het boek, of neem één van de leuke items mee naar huis.",
+                "url": "http://gedachtesprongetjes.blogspot.be/"
+            },
+                        {
+                "image": "img/biodyvino.jpg",
+                "title": "Biodyvino",
+                "subtitle": "Biologische wijnen",
+                "description": "Biodyvino heeft een selectie heerlijke wijnen. Kom proeven, en wees overtuigt van de kwaliteit !",
+                "url": "http://www.biodyvino.be/"
+            },
+            {
+                "image": "img/mier.jpg",
+                "title": "Mier.",
+                "subtitle": "Turning Grey into Green",
+                "description": "Permacultuur, ecologische tuinaanleg, verbouwingen, groendaken. De toekomst is groen. Dat hebben ze bij Mier vzw alvast begrepen. Ontdek deze parel uit onze streek !",
+                "url": "http://www.mier.be/"
+            },
+            {
+                "image": "img/greenfuture.jpg",
+                "title": "Green Future",
+                "subtitle": "Eco-techniek",
+                "description": "Zonnepanelen, zonneboiler, warmtepompen, warmtepompboilers en LED-verlichting. Bij Green Futures begrijpen ze dat eco-techniek een belangrijke bijdrage levert aan een duurzame levensstijl !",
+                "url": "http://www.green-future.be/"
+            }
+        ]},
+        { "columns": [
+            {
+                "image": "img/wiezebed.jpg",
+                "title": "Wiezebed",
+                "subtitle": "Eco- and Fairtrade B&B",
+                "description": "B&B Wiezebed biedt jou een verblijf aan waar ecologie en fairtrade centraal staan. B&B Wiezebed is gelegen in Wieze, het dorp dat vooral gekend is voor zijn bier en chocolade (Callebaut).",
+                "url": "http://www.wiezebed.be/"
+            },
+            {
+                "image": "img/biodyvino.jpg",
+                "title": "Biodyvino",
+                "subtitle": "Biologische wijnen",
+                "description": "Biodyvino heeft een selectie heerlijke wijnen. Kom proeven, en wees overtuigt van de kwaliteit !",
+                "url": "http://www.biodyvino.be/"
+            },
+            {
+                "image": "img/biobakkers.jpg",
+                "title": "Biobakkers",
+                "subtitle": "Artisanaal Biobrood",
+                "description": "De Biobakkers groeide uit de ambachtelijke bakkerij die door Arthur Verheyen werd opgericht in 1980. Sinds het begin van De Biobakkers werd er uitsluitend gebakken met biologische producten. Ondertussen is de biobakkerij van De Biobakkers uitgegroeid tot een van de grootste in Vlaanderen.",
+                "url": "http://www.debiobakkers.be/"
+            },
+            {
+                "image": "img/seizoenschuur.jpg",
+                "title": "De Seizoenschuur",
+                "subtitle": "Boerderij",
+                "description": "Verkoop biologische groenten, en bio lamsvlees.",
+                "url": "https://www.facebook.com/pages/De-Seizoenschuur-_-LV-JHemelings-Vereecken/562731157113550"
+            }
+        ]},
+        { "columns": [
+            {
+                "image": "img/ecolover.jpg",
+                "title": "Eco-Lover",
+                "subtitle": "Eco Giftshop",
+                "description": "Eco-Lover is een eco webshop waar duurzaamheid en design hand in hand gaan! Ontdek een unieke collectie van duurzame producten met een meerwaarde en een verhaal.",
+                "url": "http://www.eco-lover.be/"
+            },
+            {
+                "image": "img/vormingplus.jpg",
+                "title": "Vormingplus",
+                "subtitle": "Vormingen",
+                "description": "De Vormingplus-centra willen volwassenen de mogelijkheid bieden om zich in hun vrije tijd verder te ontwikkelen en hun persoonlijke en sociale competenties te vergroten. De centra stimuleren de participatie van mensen en groepen aan het maatschappelijke en culturele leven en versterken hun weerbaarheid en engagement in de samenleving.",
+                "url": "http://vormingpluswd.nettools.be/default.aspx"
+            },
+            {
+                "image": "img/biotina.jpg",
+                "title": "BIOtina",
+                "subtitle": "Bio- & Natuurwinkel",
+                "description": "De nieuwe bio- en natuurwinkel in Lebbeke. Voeding (brood, kruiden, glutenvrij, suikervrij, ...), Supplementen (vitamines, mineralen, vetzuren, ...), Drank (wijn, bier, fruitsappen, koffie, ...).",
+                "url": "http://sport.lebbeke-leeft.be/HighlightDetail-Sport-Biotina---Natuur--en-dieetvoeding-7497.aspx"
+            },
+            {
+                "image": "img/hellofresh.jpg",
+                "title": "HelloFresh",
+                "subtitle": "Maaltijdboxen",
+                "description": "HelloFresh levert ecologisch verantwoorde maaltijdboxen. Alle verse ingrediënten, en verassende recepten zorgen ervoor dat je in een wip een heerlijke, gezonde maaltijd op tafel tovert. HelloFresh levert, naast hun standaardpakket, ook veggie paketten, waarmee je gelijk uitzonderlijk duurzaam bezig bent ! ;-)",
+                "url": "https://www.hellofresh.be/"
+            }
+        ]},
+        { "columns": [
+            {
+                "image": "img/georgette.jpg",
+                "title": "Georgette",
+                "subtitle": "Textielontwerpster",
+                "description": "Ruth Grootjans is een gepassioneerde textielontwerpster die voor jou creatieve, moderne én bovenal verantwoorde stoffen spot.",
+                "url": "http://www.georgette.be/"
+            },
+            {
+                "image": "img/calico.jpg",
+                "title": "Calico",
+                "subtitle": "Naai- en Juwelenworkshops",
+                "description": "Kriebelt het al een tijdje om zelf prachtige dingen te leren maken, maar weet je niet goed waar en hoe je eraan moet beginnen?  Calico biedt de oplossing!  Voor de naaiworkshops werken we in kleine groepjes van 5 personen en voor de juwelen workshops met 10 personen zodat het steeds mogelijk is om persoonlijke begeleiding en advies te geven. ",
+                "url": "http://www.calicoleuven.be/"
+            },
+            {
+                "image": "",
+                "title": "",
+                "subtitle": "",
+                "description": "",
+                "url": ""
+            },
+            {
+                "image": "",
+                "title": "",
+                "subtitle": "",
+                "description": "",
+                "url": ""
+            }
+        ]}
+    ]
+}
