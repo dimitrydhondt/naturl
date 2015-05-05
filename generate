@@ -1,0 +1,2 @@
+#!/bin/bash
+mustache model.json index.mustache.html > public/index.html

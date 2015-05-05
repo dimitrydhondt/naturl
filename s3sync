@@ -1,4 +1,5 @@
 #!/bin/bash
+./generate
 cd public
 s3cmd sync --acl-public --guess-mime-type . s3://natur-l.be/
 s3cmd ws-create --ws-index=index.html s3://natur-l.be

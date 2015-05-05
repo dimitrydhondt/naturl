@@ -165,6 +165,43 @@
                 "subtitle": "Naai- en Juwelenworkshops",
                 "description": "Kriebelt het al een tijdje om zelf prachtige dingen te leren maken, maar weet je niet goed waar en hoe je eraan moet beginnen?  Calico biedt de oplossing!  Voor de naaiworkshops werken we in kleine groepjes van 5 personen en voor de juwelen workshops met 10 personen zodat het steeds mogelijk is om persoonlijke begeleiding en advies te geven. ",
                 "url": "http://www.calicoleuven.be/"
+            },
+            {
+                "image": "img/deblijeb.jpg",
+                "title": "DeBlijeB",
+                "subtitle": "Alternatieve Bank",
+                "description": "De Blije B is een burgerinitiatief van professionals. Wij brengen geld terug naar waar het hoort. Naar een middel om ons dagelijkse leven te vergemakkelijken. Wij willen laten zien dat groei mogelijk is, zolang het een natuurlijke groei is. Dat houdt in dat groeien mag, zolang de natuur en onze omgeving daar baat bij heeft.",
+                "url": "http://www.deblijeb.nl/"
+            },
+            {
+                "image": "img/ateliermodiste.jpg",
+                "title": "Atelier Modiste",
+                "subtitle": "Hoeden",
+                "description": "Ze hebben alle vijf een andere stijl, een ander karakter maar samen vormen ze een gezellige bende met dezelfde interesse: 'Hoedjes maken'.",
+                "url": "http://www.facebook.com/ateliermodiste"
+            }            
+        ]},
+        {"columns" : [
+            {
+                "image": "img/vae.jpg",
+                "title": "VAE",
+                "subtitle": "Vereniging voor Associatieve Economie",
+                "description": "Willen we niet allemaal een economie met een duurzaam karakter? Ook in academische kringen begint het langzaam door te dringen dat concurrentie niet erg geschikt is om zo'n duurzaam karakter aan de economie te verlenen.",
+                "url": "http://www.de-blauwe-bloem.org/site/index2.php"
+            },
+            {
+                "image": "img/arachne.jpg",
+                "title": "Arachne",
+                "subtitle": "Klankschalen",
+                "description": "Geluid is klank, klank is trilling. Geluid heeft een bepaalde uitwerking. Zo roepen bepaalde klanken en geluiden gevoelens en beelden op, die al dan niet als aangenaam ervaren worden. De werking van klankschalen is bijzonder omdat ze harmoniserend werkt.",
+                "url": "http://www.arachneweb.be/klankschalen.html"
+            },
+            {
+                "image": "img/narmada.jpg",
+                "title": "Narmada",
+                "subtitle": "",
+                "description": "Stockverkoop eco-kledij, bio etherische olie en verzorgingsproducten, bio thee, ecologische postkaartjes, fair-trade geschenkartikelen.",
+                "url": "http://www.narmada.be/"
             }
         ]}
     ]

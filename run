@@ -1,4 +1,3 @@
 #!/bin/bash
-#node index.js
-mustache model.json index.mustache.html > public/index.html
+./generate
 http-server public
