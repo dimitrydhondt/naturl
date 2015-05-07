@@ -3,11 +3,18 @@
     "rows": [
         { "columns": [
             {
-                "image": "img/groenegevels.jpg",
-                "title": "Groene Gevels",
-                "subtitle": "Gevelgroen",
-                "description": "Groene Gevels vzw is dé leverancier van klimhulpen en klimplanten voor het realiseren van gevelgroen. Groene Gevels vzw levert aan particulieren, bedrijven, gemeenten en instellingen. Groene gevels hebben vele voordelen, het is mooi, het is goed voor uw gezondheid en voor het milieu. Daarom Wil Groene Gevels zoveel mogelijk gevels begroenen te beginnen in Lebbeke, Dendermonde, Buggenhout en Opwijk.",
-                "url": "http://www.groenegevels.be"
+                "image": "img/lovinghut.jpg",
+                "title": "Loving Hut Express",
+                "subtitle": "Duurzame catering",
+                "description": "Kom genieten van de overheerlijke catering van The Loving Hut Express ! Seizoensgebonden, duurzame gerechten.",
+                "url": "http://www.vivavega.be/"
+            },
+            {
+                "image": "img/hellofresh.jpg",
+                "title": "HelloFresh",
+                "subtitle": "Maaltijdboxen",
+                "description": "HelloFresh levert ecologisch verantwoorde maaltijdboxen. Alle verse ingrediënten en verassende recepten samen geleverd zorgen ervoor dat je in een wip een heerlijke, gezonde maaltijd op tafel tovert. HelloFresh levert, naast hun standaardpakket, ook veggie paketten, waarmee je gelijk bijzonder duurzaam bezig bent !",
+                "url": "https://www.hellofresh.be/"
             },
             {
                 "image": "img/oxfam.jpg",
@@ -15,13 +22,6 @@
                 "subtitle": "Fair trade",
                 "description": "Wie ken de wereldwinkel nog niet ? Producten van eerlijke handel zijn onze specialiteit. Nergens anders vind je er zoveel bij elkaar. Met het brede assortiment van ons huismerk Oxfam Fair Trade en andere fairtrademerken tonen we dat eerlijke handel mogelijk is.",
                 "url": "http://www.oxfamwereldwinkels.be/nl/dendermonde"
-            },
-            {
-                "image": "img/imkers.jpg",
-                "title": "Roger De Croock",
-                "subtitle": "Imker",
-                "description": "Roger De Croock is één van de lokale imkers, proef zijn heerlijke honing. Of vraag hem (werkelijk !) alles over bijen !",
-                "url": "http://www.konvib.be/"                
             },
             {
                 "image": "img/compostmeester.jpg",
@@ -40,13 +40,6 @@
                 "url": "http://biowineathome.be/"
             },
             {
-                "image": "img/lovinghut.jpg",
-                "title": "Loving Hut Express",
-                "subtitle": "Duurzame catering",
-                "description": "Kom genieten van de overheerlijke catering van The Loving Hut Express ! Seizoensgebonden, duurzame gerechten.",
-                "url": "http://www.vivavega.be/"
-            },
-            {
                 "image": "img/natuurpunt.jpg",
                 "title": "Natuurpunt",
                 "subtitle": "Natuurbeheer",
@@ -59,6 +52,13 @@
                 "subtitle": "Korte keten",
                 "description": "Het netwerk van lokale voedselteams en duurzame producenten. Via dit netwerk organiseren we de directe verhandeling van duurzame streek- en seizoensvoeding. Voedselteams dragen bij aan regionaal voedselsysteem en zijn pioniers in de korte keten.",
                 "url": "http://www.voedselteams.be/"
+            },
+            {
+                "image": "img/groenegevels.jpg",
+                "title": "Groene Gevels",
+                "subtitle": "Gevelgroen",
+                "description": "Groene Gevels vzw is dé leverancier van klimhulpen en klimplanten voor het realiseren van gevelgroen. Groene Gevels vzw levert aan particulieren, bedrijven, gemeenten en instellingen. Groene gevels hebben vele voordelen, het is mooi, het is goed voor uw gezondheid en voor het milieu. Daarom Wil Groene Gevels zoveel mogelijk gevels begroenen te beginnen in Lebbeke, Dendermonde, Buggenhout en Opwijk.",
+                "url": "http://www.groenegevels.be"
             }
         ]},
         { "columns": [
@@ -100,11 +100,11 @@
                 "url": "http://www.wiezebed.be/"
             },
             {
-                "image": "img/biodyvino.jpg",
-                "title": "Biodyvino",
-                "subtitle": "Biologische wijnen",
-                "description": "Biodyvino heeft een selectie heerlijke wijnen. Kom proeven, en wees overtuigt van de kwaliteit !",
-                "url": "http://www.biodyvino.be/"
+                "image": "img/narmada.jpg",
+                "title": "Narmada",
+                "subtitle": "",
+                "description": "Stockverkoop eco-kledij, bio etherische olie en verzorgingsproducten, bio thee, ecologische postkaartjes, fair-trade geschenkartikelen.",
+                "url": "http://www.narmada.be/"
             },
             {
                 "image": "img/biobakkers.jpg",
@@ -144,11 +144,11 @@
                 "url": "http://sport.lebbeke-leeft.be/HighlightDetail-Sport-Biotina---Natuur--en-dieetvoeding-7497.aspx"
             },
             {
-                "image": "img/hellofresh.jpg",
-                "title": "HelloFresh",
-                "subtitle": "Maaltijdboxen",
-                "description": "HelloFresh levert ecologisch verantwoorde maaltijdboxen. Alle verse ingrediënten, en verassende recepten zorgen ervoor dat je in een wip een heerlijke, gezonde maaltijd op tafel tovert. HelloFresh levert, naast hun standaardpakket, ook veggie paketten, waarmee je gelijk uitzonderlijk duurzaam bezig bent ! ;-)",
-                "url": "https://www.hellofresh.be/"
+                "image": "img/imkers.jpg",
+                "title": "Roger De Croock",
+                "subtitle": "Imker",
+                "description": "Roger De Croock is één van de lokale imkers, proef zijn heerlijke honing. Of vraag hem (werkelijk !) alles over bijen !",
+                "url": "http://www.konvib.be/"                
             }
         ]},
         { "columns": [
@@ -178,7 +178,7 @@
                 "title": "Atelier Modiste",
                 "subtitle": "Hoeden",
                 "description": "Ze hebben alle vijf een andere stijl, een ander karakter maar samen vormen ze een gezellige bende met dezelfde interesse: 'Hoedjes maken'.",
-                "url": "http://www.facebook.com/ateliermodiste"
+                "url": "http://www.facebook.com/MartineDecancqModiste"
             }            
         ]},
         {"columns" : [
@@ -195,13 +195,6 @@
                 "subtitle": "Klankschalen",
                 "description": "Geluid is klank, klank is trilling. Geluid heeft een bepaalde uitwerking. Zo roepen bepaalde klanken en geluiden gevoelens en beelden op, die al dan niet als aangenaam ervaren worden. De werking van klankschalen is bijzonder omdat ze harmoniserend werkt.",
                 "url": "http://www.arachneweb.be/klankschalen.html"
-            },
-            {
-                "image": "img/narmada.jpg",
-                "title": "Narmada",
-                "subtitle": "",
-                "description": "Stockverkoop eco-kledij, bio etherische olie en verzorgingsproducten, bio thee, ecologische postkaartjes, fair-trade geschenkartikelen.",
-                "url": "http://www.narmada.be/"
             }
         ]}
     ]
