@@ -1,201 +1,247 @@
 {
-    "title": "Natur-L",
-    "rows": [
-        { "columns": [
-            {
-                "image": "img/lovinghut.jpg",
-                "title": "Loving Hut Express",
-                "subtitle": "Duurzame catering",
-                "description": "Kom genieten van de overheerlijke catering van The Loving Hut Express ! Seizoensgebonden, duurzame gerechten.",
-                "url": "http://www.vivavega.be/"
+  "title": "Natur-L",
+  "rows": [
+    {
+      "columns": [
+        {
+          "image": "img/lovinghut.jpg",
+          "title": "Loving Hut Express",
+          "subtitle": "Duurzame catering",
+          "description": "Kom genieten van de overheerlijke catering van The Loving Hut Express ! Seizoensgebonden, duurzame gerechten.",
+          "url": "http://www.vivavega.be/"
             },
-            {
-                "image": "img/hellofresh.jpg",
-                "title": "HelloFresh",
-                "subtitle": "Maaltijdboxen",
-                "description": "HelloFresh levert ecologisch verantwoorde maaltijdboxen. Alle verse ingrediënten en verassende recepten samen geleverd zorgen ervoor dat je in een wip een heerlijke, gezonde maaltijd op tafel tovert. HelloFresh levert, naast hun standaardpakket, ook veggie paketten, waarmee je gelijk bijzonder duurzaam bezig bent !",
-                "url": "https://www.hellofresh.be/"
+        {
+          "image": "img/hellofresh.jpg",
+          "title": "HelloFresh",
+          "subtitle": "Maaltijdboxen",
+          "description": "HelloFresh levert ecologisch verantwoorde maaltijdboxen. Alle verse ingrediënten en verassende recepten samen geleverd zorgen ervoor dat je in een wip een heerlijke, gezonde maaltijd op tafel tovert. HelloFresh levert, naast hun standaardpakket, ook veggie paketten, waarmee je gelijk bijzonder duurzaam bezig bent !",
+          "url": "https://www.hellofresh.be/"
             },
-            {
-                "image": "img/oxfam.jpg",
-                "title": "Oxfam Wereldwinkel",
-                "subtitle": "Fair trade",
-                "description": "Wie ken de wereldwinkel nog niet ? Producten van eerlijke handel zijn onze specialiteit. Nergens anders vind je er zoveel bij elkaar. Met het brede assortiment van ons huismerk Oxfam Fair Trade en andere fairtrademerken tonen we dat eerlijke handel mogelijk is.",
-                "url": "http://www.oxfamwereldwinkels.be/nl/dendermonde"
+        {
+          "image": "img/oxfam.jpg",
+          "title": "Oxfam Wereldwinkel",
+          "subtitle": "Fair trade",
+          "description": "Wie ken de wereldwinkel nog niet ? Producten van eerlijke handel zijn onze specialiteit. Nergens anders vind je er zoveel bij elkaar. Met het brede assortiment van ons huismerk Oxfam Fair Trade en andere fairtrademerken tonen we dat eerlijke handel mogelijk is.",
+          "url": "http://www.oxfamwereldwinkels.be/nl/dendermonde"
             },
-            {
-                "image": "img/compostmeester.jpg",
-                "title": "Compostmeesters",
-                "subtitle": "Composteren",
-                "description": "Thuiscomposteren is waarschijnlijk de slimste manier om je groenafval om te zetten in geweldige voeding voor de planten in je tuin.",
-                "url": "http://www.lebbeeksecompost.be/"
+        {
+          "image": "img/biowineathome.jpg",
+          "title": "Biowine@Home",
+          "subtitle": "Bio-wijn en Whiskey",
+          "description": "Heerlijk wijnen, cava, Whiskey. Allemaal van biologische origine !",
+          "url": "http://biowineathome.be/"
             }
-        ]},
-        { "columns": [
-            {
-                "image": "img/biowineathome.jpg",
-                "title": "Biowine@Home",
-                "subtitle": "Bio-wijn en Whiskey",
-                "description": "Heerlijk wijnen, cava, Whiskey. Allemaal van biologische origine !",
-                "url": "http://biowineathome.be/"
+        ]
+      },
+    {
+      "columns": [
+        {
+          "image": "img/compostmeester.jpg",
+          "title": "Compostmeesters",
+          "subtitle": "Composteren",
+          "description": "Thuiscomposteren is waarschijnlijk de slimste manier om je groenafval om te zetten in geweldige voeding voor de planten in je tuin.",
+          "url": "http://www.lebbeeksecompost.be/"
             },
-            {
-                "image": "img/natuurpunt.jpg",
-                "title": "Natuurpunt",
-                "subtitle": "Natuurbeheer",
-                "description": "Wie kent natuurpunt niet ? Natuurpunt zet zich in voor natuurbehoud in Vlaanderen. Gesteund door 95.000 leden zetten meer dan 6.000 vrijwilligers zich dagelijks in om bedreigde planten, dieren en landschappen te beschermen.",
-                "url": "http://www.natuurpunt.be/"
+        {
+          "image": "img/natuurpunt.jpg",
+          "title": "Natuurpunt",
+          "subtitle": "Natuurbeheer",
+          "description": "Wie kent natuurpunt niet ? Natuurpunt zet zich in voor natuurbehoud in Vlaanderen. Gesteund door 95.000 leden zetten meer dan 6.000 vrijwilligers zich dagelijks in om bedreigde planten, dieren en landschappen te beschermen. De lokale afdeling ('s Heerenbosch) beheert enkele natuurgebieden, en heeft werkgroepen aangaande planten, vogels en insecten. Vraag maar raak ! Ze bieden voor de gelegenheid ook een assortiment tuinplanten aan.",
+          "url": "http://www.natuurpunt-sheerenbosch.be/"
             },
-            {
-                "image": "img/voedselteams.jpg",
-                "title": "Voedselteams",
-                "subtitle": "Korte keten",
-                "description": "Het netwerk van lokale voedselteams en duurzame producenten. Via dit netwerk organiseren we de directe verhandeling van duurzame streek- en seizoensvoeding. Voedselteams dragen bij aan regionaal voedselsysteem en zijn pioniers in de korte keten.",
-                "url": "http://www.voedselteams.be/"
+        {
+          "image": "img/voedselteams.jpg",
+          "title": "Voedselteams",
+          "subtitle": "Korte keten",
+          "description": "Het netwerk van lokale voedselteams en duurzame producenten. Via dit netwerk organiseren we de directe verhandeling van duurzame streek- en seizoensvoeding. Voedselteams dragen bij aan regionaal voedselsysteem en zijn pioniers in de korte keten.",
+          "url": "http://www.voedselteams.be/"
             },
-            {
-                "image": "img/groenegevels.jpg",
-                "title": "Groene Gevels",
-                "subtitle": "Gevelgroen",
-                "description": "Groene Gevels vzw is dé leverancier van klimhulpen en klimplanten voor het realiseren van gevelgroen. Groene Gevels vzw levert aan particulieren, bedrijven, gemeenten en instellingen. Groene gevels hebben vele voordelen, het is mooi, het is goed voor uw gezondheid en voor het milieu. Daarom Wil Groene Gevels zoveel mogelijk gevels begroenen te beginnen in Lebbeke, Dendermonde, Buggenhout en Opwijk.",
-                "url": "http://www.groenegevels.be"
+        {
+          "image": "img/groenegevels.jpg",
+          "title": "Groene Gevels",
+          "subtitle": "Gevelgroen",
+          "description": "Groene Gevels vzw is dé leverancier van klimhulpen en klimplanten voor het realiseren van gevelgroen. Groene Gevels vzw levert aan particulieren, bedrijven, gemeenten en instellingen. Groene gevels hebben vele voordelen, het is mooi, het is goed voor uw gezondheid en voor het milieu. Daarom Wil Groene Gevels zoveel mogelijk gevels begroenen te beginnen in Lebbeke, Dendermonde, Buggenhout en Opwijk.",
+          "url": "http://www.groenegevels.be"
             }
-        ]},
-        { "columns": [
-            {
-                "image": "img/artdeco.jpg",
-                "title": "Art d'Eco",
-                "subtitle": "Creative Upcycling",
-                "description": "Maak zelf, uit afval, prachtige - creatieve - spullen. Koop het boek, of neem één van de leuke items mee naar huis.",
-                "url": "http://gedachtesprongetjes.blogspot.be/"
+        ]
+      },
+    {
+      "columns": [
+        {
+          "image": "img/artdeco.jpg",
+          "title": "Art d'Eco",
+          "subtitle": "Creative Upcycling",
+          "description": "Maak zelf, uit afval, prachtige - creatieve - spullen. Koop het boek, of neem één van de leuke items mee naar huis.",
+          "url": "http://gedachtesprongetjes.blogspot.be/"
             },
-                        {
-                "image": "img/biodyvino.jpg",
-                "title": "Biodyvino",
-                "subtitle": "Biologische wijnen",
-                "description": "Biodyvino heeft een selectie heerlijke wijnen. Kom proeven, en wees overtuigt van de kwaliteit !",
-                "url": "http://www.biodyvino.be/"
+        {
+          "image": "img/biodyvino.jpg",
+          "title": "Biodyvino",
+          "subtitle": "Biologische wijnen",
+          "description": "Biodyvino heeft een selectie heerlijke wijnen. Kom proeven, en wees overtuigt van de kwaliteit !",
+          "url": "http://www.biodyvino.be/"
             },
-            {
-                "image": "img/mier.jpg",
-                "title": "Mier.",
-                "subtitle": "Turning Grey into Green",
-                "description": "Permacultuur, ecologische tuinaanleg, verbouwingen, groendaken. De toekomst is groen. Dat hebben ze bij Mier vzw alvast begrepen. Ontdek deze parel uit onze streek !",
-                "url": "http://www.mier.be/"
+        {
+          "image": "img/mier.jpg",
+          "title": "Mier.",
+          "subtitle": "Turning Grey into Green",
+          "description": "Permacultuur, ecologische tuinaanleg, verbouwingen, groendaken. De toekomst is groen. Dat hebben ze bij Mier vzw alvast begrepen. Ontdek deze parel uit onze streek !",
+          "url": "http://www.mier.be/"
             },
-            {
-                "image": "img/greenfuture.jpg",
-                "title": "Green Future",
-                "subtitle": "Eco-techniek",
-                "description": "Zonnepanelen, zonneboiler, warmtepompen, warmtepompboilers en LED-verlichting. Bij Green Futures begrijpen ze dat eco-techniek een belangrijke bijdrage levert aan een duurzame levensstijl !",
-                "url": "http://www.green-future.be/"
+        {
+          "image": "img/greenfuture.jpg",
+          "title": "Green Future",
+          "subtitle": "Eco-techniek",
+          "description": "Zonnepanelen, zonneboiler, warmtepompen, warmtepompboilers en LED-verlichting. Bij Green Futures begrijpen ze dat eco-techniek een belangrijke bijdrage levert aan een duurzame levensstijl !",
+          "url": "http://www.green-future.be/"
             }
-        ]},
-        { "columns": [
-            {
-                "image": "img/wiezebed.jpg",
-                "title": "Wiezebed",
-                "subtitle": "Eco- and Fairtrade B&B",
-                "description": "B&B Wiezebed biedt jou een verblijf aan waar ecologie en fairtrade centraal staan. B&B Wiezebed is gelegen in Wieze, het dorp dat vooral gekend is voor zijn bier en chocolade (Callebaut).",
-                "url": "http://www.wiezebed.be/"
+        ]
+      },
+    {
+      "columns": [
+        {
+          "image": "img/wiezebed.jpg",
+          "title": "Wiezebed",
+          "subtitle": "Eco- and Fairtrade B&B",
+          "description": "B&B Wiezebed biedt jou een verblijf aan waar ecologie en fairtrade centraal staan. B&B Wiezebed is gelegen in Wieze, het dorp dat vooral gekend is voor zijn bier en chocolade (Callebaut).",
+          "url": "http://www.wiezebed.be/"
             },
-            {
-                "image": "img/narmada.jpg",
-                "title": "Narmada",
-                "subtitle": "",
-                "description": "Stockverkoop eco-kledij, bio etherische olie en verzorgingsproducten, bio thee, ecologische postkaartjes, fair-trade geschenkartikelen.",
-                "url": "http://www.narmada.be/"
+        {
+          "image": "img/narmada.jpg",
+          "title": "Narmada",
+          "subtitle": "",
+          "description": "Stockverkoop eco-kledij, bio etherische olie en verzorgingsproducten, bio thee, ecologische postkaartjes, fair-trade geschenkartikelen.",
+          "url": "http://www.narmada.be/"
             },
-            {
-                "image": "img/biobakkers.jpg",
-                "title": "Biobakkers",
-                "subtitle": "Artisanaal Biobrood",
-                "description": "De Biobakkers groeide uit de ambachtelijke bakkerij die door Arthur Verheyen werd opgericht in 1980. Sinds het begin van De Biobakkers werd er uitsluitend gebakken met biologische producten. Ondertussen is de biobakkerij van De Biobakkers uitgegroeid tot een van de grootste in Vlaanderen.",
-                "url": "http://www.debiobakkers.be/"
+        {
+          "image": "img/biobakkers.jpg",
+          "title": "Biobakkers",
+          "subtitle": "Artisanaal Biobrood",
+          "description": "De Biobakkers groeide uit de ambachtelijke bakkerij die door Arthur Verheyen werd opgericht in 1980. Sinds het begin van De Biobakkers werd er uitsluitend gebakken met biologische producten. Ondertussen is de biobakkerij van De Biobakkers uitgegroeid tot een van de grootste in Vlaanderen.",
+          "url": "http://www.debiobakkers.be/"
             },
-            {
-                "image": "img/seizoenschuur.jpg",
-                "title": "De Seizoenschuur",
-                "subtitle": "Boerderij",
-                "description": "Verkoop biologische groenten, en bio lamsvlees.",
-                "url": "https://www.facebook.com/pages/De-Seizoenschuur-_-LV-JHemelings-Vereecken/562731157113550"
+        {
+          "image": "img/seizoenschuur.jpg",
+          "title": "De Seizoenschuur",
+          "subtitle": "Boerderij",
+          "description": "Verkoop biologische groenten, en bio lamsvlees.",
+          "url": "https://www.facebook.com/pages/De-Seizoenschuur-_-LV-JHemelings-Vereecken/562731157113550"
             }
-        ]},
-        { "columns": [
-            {
-                "image": "img/ecolover.jpg",
-                "title": "Eco-Lover",
-                "subtitle": "Eco Giftshop",
-                "description": "Eco-Lover is een eco webshop waar duurzaamheid en design hand in hand gaan! Ontdek een unieke collectie van duurzame producten met een meerwaarde en een verhaal.",
-                "url": "http://www.eco-lover.be/"
+        ]
+      },
+    {
+      "columns": [
+        {
+          "image": "img/ecolover.jpg",
+          "title": "Eco-Lover",
+          "subtitle": "Eco Giftshop",
+          "description": "Eco-Lover is een eco webshop waar duurzaamheid en design hand in hand gaan! Ontdek een unieke collectie van duurzame producten met een meerwaarde en een verhaal.",
+          "url": "http://www.eco-lover.be/"
             },
-            {
-                "image": "img/vormingplus.jpg",
-                "title": "Vormingplus",
-                "subtitle": "Vormingen",
-                "description": "De Vormingplus-centra willen volwassenen de mogelijkheid bieden om zich in hun vrije tijd verder te ontwikkelen en hun persoonlijke en sociale competenties te vergroten. De centra stimuleren de participatie van mensen en groepen aan het maatschappelijke en culturele leven en versterken hun weerbaarheid en engagement in de samenleving.",
-                "url": "http://vormingpluswd.nettools.be/default.aspx"
+        {
+          "image": "img/vormingplus.jpg",
+          "title": "Vormingplus",
+          "subtitle": "Vormingen",
+          "description": "De Vormingplus-centra willen volwassenen de mogelijkheid bieden om zich in hun vrije tijd verder te ontwikkelen en hun persoonlijke en sociale competenties te vergroten. De centra stimuleren de participatie van mensen en groepen aan het maatschappelijke en culturele leven en versterken hun weerbaarheid en engagement in de samenleving.",
+          "url": "http://vormingpluswd.nettools.be/default.aspx"
             },
-            {
-                "image": "img/biotina.jpg",
-                "title": "BIOtina",
-                "subtitle": "Bio- & Natuurwinkel",
-                "description": "De nieuwe bio- en natuurwinkel in Lebbeke. Voeding (brood, kruiden, glutenvrij, suikervrij, ...), Supplementen (vitamines, mineralen, vetzuren, ...), Drank (wijn, bier, fruitsappen, koffie, ...).",
-                "url": "http://sport.lebbeke-leeft.be/HighlightDetail-Sport-Biotina---Natuur--en-dieetvoeding-7497.aspx"
+        {
+          "image": "img/biotina.jpg",
+          "title": "BIOtina",
+          "subtitle": "Bio- & Natuurwinkel",
+          "description": "De nieuwe bio- en natuurwinkel in Lebbeke. Voeding (brood, kruiden, glutenvrij, suikervrij, ...), Supplementen (vitamines, mineralen, vetzuren, ...), Drank (wijn, bier, fruitsappen, koffie, ...).",
+          "url": "http://sport.lebbeke-leeft.be/HighlightDetail-Sport-Biotina---Natuur--en-dieetvoeding-7497.aspx"
             },
-            {
-                "image": "img/imkers.jpg",
-                "title": "Roger De Croock",
-                "subtitle": "Imker",
-                "description": "Roger De Croock is één van de lokale imkers, proef zijn heerlijke honing. Of vraag hem (werkelijk !) alles over bijen !",
-                "url": "http://www.konvib.be/"                
+        {
+          "image": "img/imkers.jpg",
+          "title": "Roger De Croock",
+          "subtitle": "Imker",
+          "description": "Roger De Croock is één van de lokale imkers, proef zijn heerlijke honing. Of vraag hem (werkelijk !) alles over bijen !",
+          "url": "http://www.konvib.be/"
             }
-        ]},
-        { "columns": [
-            {
-                "image": "img/georgette.jpg",
-                "title": "Georgette",
-                "subtitle": "Textielontwerpster",
-                "description": "Ruth Grootjans is een gepassioneerde textielontwerpster die voor jou creatieve, moderne én bovenal verantwoorde stoffen spot.",
-                "url": "http://www.georgette.be/"
+        ]
+      },
+    {
+      "columns": [
+        {
+          "image": "img/georgette.jpg",
+          "title": "Georgette",
+          "subtitle": "Textielontwerpster",
+          "description": "Ruth Grootjans is een gepassioneerde textielontwerpster die voor jou creatieve, moderne én bovenal verantwoorde stoffen spot.",
+          "url": "http://www.georgette.be/"
             },
-            {
-                "image": "img/calico.jpg",
-                "title": "Calico",
-                "subtitle": "Naai- en Juwelenworkshops",
-                "description": "Kriebelt het al een tijdje om zelf prachtige dingen te leren maken, maar weet je niet goed waar en hoe je eraan moet beginnen?  Calico biedt de oplossing!  Voor de naaiworkshops werken we in kleine groepjes van 5 personen en voor de juwelen workshops met 10 personen zodat het steeds mogelijk is om persoonlijke begeleiding en advies te geven. ",
-                "url": "http://www.calicoleuven.be/"
+        {
+          "image": "img/calico.jpg",
+          "title": "Calico",
+          "subtitle": "Naai- en Juwelenworkshops",
+          "description": "Kriebelt het al een tijdje om zelf prachtige dingen te leren maken, maar weet je niet goed waar en hoe je eraan moet beginnen?  Calico biedt de oplossing!  Voor de naaiworkshops werken we in kleine groepjes van 5 personen en voor de juwelen workshops met 10 personen zodat het steeds mogelijk is om persoonlijke begeleiding en advies te geven. ",
+          "url": "http://www.calicoleuven.be/"
             },
-            {
-                "image": "img/deblijeb.jpg",
-                "title": "DeBlijeB",
-                "subtitle": "Alternatieve Bank",
-                "description": "De Blije B is een burgerinitiatief van professionals. Wij brengen geld terug naar waar het hoort. Naar een middel om ons dagelijkse leven te vergemakkelijken. Wij willen laten zien dat groei mogelijk is, zolang het een natuurlijke groei is. Dat houdt in dat groeien mag, zolang de natuur en onze omgeving daar baat bij heeft.",
-                "url": "http://www.deblijeb.nl/"
+        {
+          "image": "img/deblijeb.jpg",
+          "title": "DeBlijeB",
+          "subtitle": "Alternatieve Bank",
+          "description": "De Blije B is een burgerinitiatief van professionals. Wij brengen geld terug naar waar het hoort. Naar een middel om ons dagelijkse leven te vergemakkelijken. Wij willen laten zien dat groei mogelijk is, zolang het een natuurlijke groei is. Dat houdt in dat groeien mag, zolang de natuur en onze omgeving daar baat bij heeft.",
+          "url": "http://www.deblijeb.nl/"
             },
-            {
-                "image": "img/martinedecancq.jpg",
-                "title": "Martine Decancq",
-                "subtitle": "Hoeden",
-                "description": "Hoedjes en accessoires voor ieder moment, een creatieve mix van passie, techniek en gerecyclede materialen.",
-                "url": "http://www.facebook.com/MartineDecancqModiste"
-            }            
-        ]},
-        {"columns" : [
-            {
-                "image": "img/vae.jpg",
-                "title": "VAE",
-                "subtitle": "Vereniging voor Associatieve Economie",
-                "description": "Willen we niet allemaal een economie met een duurzaam karakter? Ook in academische kringen begint het langzaam door te dringen dat concurrentie niet erg geschikt is om zo'n duurzaam karakter aan de economie te verlenen.",
-                "url": "http://www.de-blauwe-bloem.org/site/index2.php"
-            },
-            {
-                "image": "img/arachne.jpg",
-                "title": "Arachne",
-                "subtitle": "Klankschalen",
-                "description": "Geluid is klank, klank is trilling. Geluid heeft een bepaalde uitwerking. Zo roepen bepaalde klanken en geluiden gevoelens en beelden op, die al dan niet als aangenaam ervaren worden. De werking van klankschalen is bijzonder omdat ze harmoniserend werkt.",
-                "url": "http://www.arachneweb.be/klankschalen.html"
+        {
+          "image": "img/martinedecancq.jpg",
+          "title": "Martine Decancq",
+          "subtitle": "Hoeden",
+          "description": "Hoedjes en accessoires voor ieder moment, een creatieve mix van passie, techniek en gerecyclede materialen.",
+          "url": "http://www.facebook.com/MartineDecancqModiste"
             }
-        ]}
-    ]
+        ]
+      },
+    {
+      "columns": [
+        {
+          "image": "img/vae.jpg",
+          "title": "VAE",
+          "subtitle": "Vereniging voor Associatieve Economie",
+          "description": "Willen we niet allemaal een economie met een duurzaam karakter? Ook in academische kringen begint het langzaam door te dringen dat concurrentie niet erg geschikt is om zo'n duurzaam karakter aan de economie te verlenen.",
+          "url": "http://www.de-blauwe-bloem.org/site/index2.php"
+            },
+        {
+          "image": "img/arachne.jpg",
+          "title": "Arachne",
+          "subtitle": "Klankschalen",
+          "description": "Geluid is klank, klank is trilling. Geluid heeft een bepaalde uitwerking. Zo roepen bepaalde klanken en geluiden gevoelens en beelden op, die al dan niet als aangenaam ervaren worden. De werking van klankschalen is bijzonder omdat ze harmoniserend werkt.",
+          "url": "http://www.arachneweb.be/klankschalen.html"
+            },
+        {
+          "image": "img/titinne.jpg",
+          "title": "Titinne",
+          "subtitle": "Uniek textielwerk",
+          "description": "Titinne ontwerpt en maakt eclectische en unieke textielwerken: kussens, sjaals, hebbedingetjes, geschenkartikelen,... Elk werk is exclusief!",
+          "url": "https://www.facebook.com/pages/Titinne-unieke-textielwerken/115149512028988?ref=hl"
+        },
+        {
+          "image": "img/debalans.jpg",
+          "title": "De Balans",
+          "subtitle": "Speltproducten",
+          "description": "Wij bienden een assortiment aan van heerlijke speltbroden, ambachtelijk gemaakt in eigen atelier. Ook vindt u onze overige speltprodukten (pasta, kookspelt, pizzadeeg, meel, bloem, etc.) begeleid door onze deskundige hulp en advies.",
+          "url": "http://de-balans.be/markt.html"
+        }
+        ]
+      },
+    {
+      "columns": [
+        {
+          "image": "img/qarfa.jpg",
+          "title": "Qarfa",
+          "subtitle": "Catering",
+          "description": "De missie van Qarfa is u een geslaagd feest of evenement bezorgen. Of u nu catering zoekt voor een huwelijk, een verjaardag, een communie of babyborrel: u bent bij ons aan het juiste adres! Alles wat wij doen, wordt gedaan met passie. En waar het hart van vol is, loopt de mond van over! U kan onze passie dan ook delen tijdens interactieve kookworkshops. Wij werken samen met tal van Aalsterse verenigingen en organisaties. Naast tal van culinaire activiteiten zijn wij ook partner voor heel wat culturele programma’s.",
+          "url": "http://www.qarfa.be/"
+        },
+        {
+          "image": "img/dehoutsmid.jpg",
+          "title": "De Houtsmid",
+          "subtitle": "Mobiele zagerij",
+          "description": "Een voorliefde voor bomen groeide uit tot een passie voor hout... Een houtvuur kan hartverwarmend zijn maar ik kreeg het vaak niet over mijn hart om een stam tot brandhout te degraderen. Op die manier begon ik te experimenteren en kregen zelfs de kromste bomen een nieuw leven als tuinmeubel of bijgebouwtje. Intussen verlegde ik mijn focus van boomverzorging naar houtbewerking.",
+          "url": "http://www.dehoutsmid.be/"
+        }
+      ]
+    }
+  ]
 }
